@@ -1,0 +1,92 @@
+{
+    "junior": [
+      {
+        "question": "Выводит сообщение в веб-консоль!",
+        "answers": [
+          "console.log();",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "В чем разница между переменными var, let, const",
+        "answers": [
+          "Область видимости: var имеет функциональную область видимости, а let и const — блочную.",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 1
+      }
+    ],
+  
+    "middle": [
+      {
+        "question": "Типы данных",
+        "answers": [
+          "Строка",
+          "Числа",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 4
+      },
+      {
+        "question": "for...of",
+        "answers": [
+          "то цикл в JavaScript, который используется для перебора итерируемых объектов, таких как массивы, строки, карты и наборы",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 4
+      }
+    ],
+  
+    "senior": [
+      {
+        "question": "blur()",
+        "answers": [
+          "Метод выводит из фокуса css ",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 4
+      },
+      {
+        "question": ".entries()",
+        "answers": [
+          "Метод возвращает массив с индексами и значениями элементов исходного массива.",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 4
+      }
+    ],
+    "design": [
+      {
+        "question": "blur()",
+        "answers": [
+          "design ",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 4
+      },
+      {
+        "question": ".entries()",
+        "answers": [
+          "Метод возвращает массив с индексами и значениями элементов исходного массива.",
+          "C",
+          "Python",
+          "JavaScript"
+        ],
+        "correct": 4
+      }
+    ]
+  }
